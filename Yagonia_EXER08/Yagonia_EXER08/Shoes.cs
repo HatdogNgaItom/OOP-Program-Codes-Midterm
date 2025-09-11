@@ -33,7 +33,7 @@ namespace Yagonia_EXER08
        //Constructor
        public TypeofFoam(string abrand, string amodel, string afoamtype ) : base(abrand, amodel)
        {
-           FoamType = aOutsoleFoamType;
+           FoamType = afoamtype;
        }
        public void RunningDetails()
        {
