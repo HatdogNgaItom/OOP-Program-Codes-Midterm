@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Yagonia_Inheritance-Computation\Yagonia_Inheritance with computation\Yagonia_Inheritance with computation\obj\Debug\Yagonia_Inheritance with computation.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Yagonia_Inheritance-Computation\Yagonia_Inheritance with computation\Yagonia_Inheritance with computation\obj\Debug\Yagonia_Inheritance with computation.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Yagonia_Inheritance-Computation\Yagonia_Inheritance with computation\Yagonia_Inheritance with computation\bin\Debug\Yagonia_Inheritance with computation.exe.config
+C:\Users\ACT-STUDENT\Desktop\Yagonia_Inheritance-Computation\Yagonia_Inheritance with computation\Yagonia_Inheritance with computation\bin\Debug\Yagonia_Inheritance with computation.exe
+C:\Users\ACT-STUDENT\Desktop\Yagonia_Inheritance-Computation\Yagonia_Inheritance with computation\Yagonia_Inheritance with computation\bin\Debug\Yagonia_Inheritance with computation.pdb
+C:\Users\ACT-STUDENT\Desktop\Yagonia_Inheritance-Computation\Yagonia_Inheritance with computation\Yagonia_Inheritance with computation\obj\Debug\Yagonia_Inheritance with computation.exe
+C:\Users\ACT-STUDENT\Desktop\Yagonia_Inheritance-Computation\Yagonia_Inheritance with computation\Yagonia_Inheritance with computation\obj\Debug\Yagonia_Inheritance with computation.pdb
+C:\Users\ACT-STUDENT\Desktop\Yagonia_Inheritance-Computation\Yagonia_Inheritance with computation\Yagonia_Inheritance with computation\obj\Debug\Yagonia_Inheritance with computation.exe.config
